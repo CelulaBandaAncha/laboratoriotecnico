@@ -4,4 +4,4 @@
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
 
-setupFilesAfterEnv: ['<rootDir>/jest-setup.js']
+setupFilesAfterEnv: ['<rootDir>/setuptests.js']
